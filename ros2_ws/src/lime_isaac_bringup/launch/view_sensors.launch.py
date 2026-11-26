@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorials 08/09: robot_state_publisher + RViz with the robot, TF, /scan and the camera image.
 
     ros2 launch lime_isaac_bringup view_sensors.launch.py

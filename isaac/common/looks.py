@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Make the simulated TurtleBot3 Lime look like the real one (tutorial 03).
 
 The URDF paints the whole robot grey. The real Lime has black waffle plates and Dynamixel servos, lime-green

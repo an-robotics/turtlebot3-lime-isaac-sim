@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Action Graphs that later tutorials reuse.
 
 Each function builds exactly the graph explained step by step in an earlier tutorial:

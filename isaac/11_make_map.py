@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 11 (part 1) - Make a Nav2 map of the lime_room with Isaac Sim's occupancy map generator.
 
     source scripts/isaac_env.sh

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 05 - Your first Action Graph: drive TurtleBot3 Lime with the keyboard (no ROS).
 
     source scripts/isaac_env.sh

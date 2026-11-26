@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 07: robot_state_publisher + RViz showing the robot model, TF and odometry from Isaac Sim.
 
     ros2 launch lime_isaac_bringup view_robot.launch.py            # with RViz

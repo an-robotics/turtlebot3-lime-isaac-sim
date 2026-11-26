@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """TurtleBot3 Lime facts used by the tutorials (taken from the URDF / SRDF).
 
 Everything here is plain data except ``add_lime()``, which references the tuned robot USD into the

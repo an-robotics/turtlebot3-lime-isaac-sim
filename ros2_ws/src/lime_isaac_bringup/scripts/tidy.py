@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 16 mission: tidy the room - a behavior tree (py_trees) on top of Nav2, the depth camera, YOLO and MoveIt.
 
     ros2 run lime_isaac_bringup tidy

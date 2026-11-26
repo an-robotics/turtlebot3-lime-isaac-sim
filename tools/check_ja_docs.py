@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Check the Japanese pages (docs/**/*.ja.md) against their English originals.
 
 Run from the repository root after `mkdocs build` (the HTML checks read site/):

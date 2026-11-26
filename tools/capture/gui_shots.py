@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Capture the GUI screenshots used in the tutorials (docs/assets/img/gui/*.png).
 
 Not part of the tutorials - this is how the screenshots on the website are made. It starts the

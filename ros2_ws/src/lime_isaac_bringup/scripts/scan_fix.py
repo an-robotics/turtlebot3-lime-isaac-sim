@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Republish Isaac Sim's /scan the way ROS expects it (tutorial 14).
 
     ros2 run lime_isaac_bringup scan_fix          # /scan -> /scan_fixed

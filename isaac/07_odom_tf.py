@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 07 - Odometry, TF and joint states: see TurtleBot3 Lime in RViz.
 
     source scripts/isaac_env.sh

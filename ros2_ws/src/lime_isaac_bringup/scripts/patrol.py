@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 15 mission: a patrol, written as a behavior tree (py_trees).
 
     ros2 run lime_isaac_bringup patrol

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Behavior-tree building blocks for the Lime (tutorials 15 and 16), with py_trees.
 
 A behaviour tree is *ticked*, about 10 times a second. Every tick, each behaviour that is ticked answers

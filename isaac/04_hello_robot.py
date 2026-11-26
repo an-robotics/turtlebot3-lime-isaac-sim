@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 04 - Move TurtleBot3 Lime from Python ("Hello Robot").
 
     source scripts/isaac_env.sh

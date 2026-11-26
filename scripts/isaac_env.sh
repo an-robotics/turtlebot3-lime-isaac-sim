@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Source this file (do not execute it):   source scripts/isaac_env.sh
 #
 # Prepares a shell for running Isaac Sim 6.2 next to a ROS 2 Jazzy container:

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Generate the plain URDF that Isaac Sim imports: assets/urdf/turtlebot3_lime.urdf
 #
 # 1. runs `xacro` on turtlebot3_lime_description/urdf/turtlebot3_lime.urdf.xacro inside the

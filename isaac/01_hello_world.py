@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 01 - Isaac Sim basics: your first standalone script ("Hello World").
 
     source scripts/isaac_env.sh

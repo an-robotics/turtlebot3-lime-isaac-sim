@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 12: MoveIt 2 + ros2_control for TurtleBot3 Lime in Isaac Sim (ROS 2 Jazzy).
 
     ros2 launch lime_isaac_moveit moveit.launch.py            # with RViz (MotionPlanning panel)

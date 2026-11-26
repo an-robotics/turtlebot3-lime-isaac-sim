@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Screenshot of a ROS GUI (RViz, rqt) running in the container next to a tutorial script.
 # Not part of the tutorials - this is how the RViz pictures on the website are made.
 #

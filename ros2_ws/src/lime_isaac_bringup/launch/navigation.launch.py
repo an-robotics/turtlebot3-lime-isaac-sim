@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 11: Nav2 for TurtleBot3 Lime in Isaac Sim's lime_room.
 
     ros2 launch lime_isaac_bringup navigation.launch.py            # with RViz

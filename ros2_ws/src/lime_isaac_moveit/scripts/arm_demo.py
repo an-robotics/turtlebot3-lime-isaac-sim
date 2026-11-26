@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Plan + execute arm motions with MoveIt 2 and open/close the gripper (tutorial 12).
 
     ros2 run lime_isaac_moveit arm_demo                  # demo pose, open gripper

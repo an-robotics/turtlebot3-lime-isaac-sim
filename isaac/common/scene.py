@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """The "lime_room": a small room for the sensor, YOLO and Nav2 tutorials (08-13).
 
     6 m x 5 m floor (x: -2..4, y: -2.5..2.5), 0.6 m walls, a few obstacles, and everyday objects from

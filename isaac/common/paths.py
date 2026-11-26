@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Paths to the assets of this repository (works from any working directory)."""
 
 from pathlib import Path

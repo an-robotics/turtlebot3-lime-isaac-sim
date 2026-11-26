@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 13 mission: tidy up the lime_room - put the banana into the bowl, then park.
 
     ros2 run lime_isaac_bringup mission

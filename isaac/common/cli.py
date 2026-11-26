@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Command-line flags shared by every tutorial script.
 
     --headless      run without a window (servers, CI)

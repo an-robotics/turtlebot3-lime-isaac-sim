@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 16 - All together: tidy the room. Three bananas lie around the lime_room; the Lime finds them all.
 
     source scripts/isaac_env.sh

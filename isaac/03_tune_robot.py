@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 03 - Tune TurtleBot3 Lime: joint drives, wheel/caster friction, start pose.
 
     python isaac/03_tune_robot.py              # write the tuned asset, then try it in the GUI

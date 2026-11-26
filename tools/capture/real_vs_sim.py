@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """The real TurtleBot3 Lime next to the simulated one - pictures for the website (not part of the tutorials).
 
     source scripts/isaac_env.sh

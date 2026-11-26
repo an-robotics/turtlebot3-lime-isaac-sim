@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 02 - Import TurtleBot3 Lime from URDF into USD.
 
     python isaac/02_import_urdf.py              # import, then show the robot in the GUI

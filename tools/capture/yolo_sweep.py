@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Record YOLO's /detections/image while the robot turns left and right (tutorial 10's video).
 
 Not part of the tutorials - tools/capture/yolo_video.sh runs this in the ROS 2 container:

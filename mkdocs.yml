@@ -4,7 +4,7 @@ site_url: https://an-robotics.github.io/turtlebot3-lime-isaac-sim/
 repo_url: https://github.com/an-robotics/turtlebot3-lime-isaac-sim
 repo_name: an-robotics/turtlebot3-lime-isaac-sim
 edit_uri: edit/main/docs/
-copyright: Apache-2.0 · TurtleBot3 Lime packages © ROBOTIS (Apache-2.0)
+copyright: © 2026 An (an-robotics) · Apache-2.0 · TurtleBot3 Lime packages © ROBOTIS (Apache-2.0)
 
 theme:
   name: material
@@ -84,7 +84,7 @@ plugins:
           name: 日本語
           build: true
           site_description: TurtleBot3 Lime モバイルマニピュレーターで学ぶ、NVIDIA Isaac Sim 6.2 と ROS 2 Jazzy の入門チュートリアル。
-          copyright: Apache-2.0 · TurtleBot3 Lime パッケージ © ROBOTIS (Apache-2.0)
+          copyright: © 2026 An (an-robotics) · Apache-2.0 · TurtleBot3 Lime パッケージ © ROBOTIS (Apache-2.0)
           theme:
             palette:
               - toggle:

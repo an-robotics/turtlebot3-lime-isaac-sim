@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 08 - RealSense D435 camera: RGB, depth and camera_info on ROS 2.
 
     source scripts/isaac_env.sh

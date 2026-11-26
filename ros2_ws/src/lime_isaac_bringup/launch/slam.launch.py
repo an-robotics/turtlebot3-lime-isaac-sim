@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 14: build a map of the lime_room with slam_toolbox while you drive.
 
     ros2 launch lime_isaac_bringup slam.launch.py            # with RViz

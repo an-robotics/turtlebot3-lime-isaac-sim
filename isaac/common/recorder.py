@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Record what the simulation looks like - this is how the tutorial videos were made.
 
 Usage (after SimulationApp is created and the stage is built):

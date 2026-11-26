@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Stop every ROS 2 process running in the tutorial container (launch files, nodes, RViz),
 # e.g. before starting the next tutorial. The container itself keeps running.
 NAME="${LIME_ROS_CONTAINER:-lime_ros}"

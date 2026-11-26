@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 16: tutorial 13's complete stack (MoveIt 2, Nav2, YOLO, RViz), with Nav2 also seeing the depth camera.
 
     ros2 launch lime_isaac_bringup tidy.launch.py

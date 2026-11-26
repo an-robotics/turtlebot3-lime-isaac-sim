@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Sensors of the TurtleBot3 Lime, created in Isaac Sim at the frames of the URDF (tutorials 08 and 09).
 
     add_d435_camera(robot)  RealSense D435 color camera  -> camera_color_optical_frame

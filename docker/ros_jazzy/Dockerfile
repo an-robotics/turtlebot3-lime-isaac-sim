@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # ROS 2 Jazzy side of the TurtleBot3 Lime x Isaac Sim 6.2 tutorials.
 #
 # Isaac Sim runs natively on the host (it ships its own ROS 2 Jazzy libraries).

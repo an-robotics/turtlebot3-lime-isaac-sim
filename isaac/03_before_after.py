@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 03 - before and after: the robot as imported next to the tuned robot, same test.
 
     python isaac/03_before_after.py                     # watch it in the GUI

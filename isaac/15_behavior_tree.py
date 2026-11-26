@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 15 - Behavior trees: a patrol with Nav2, interrupted by a (pretend) low battery.
 
     source scripts/isaac_env.sh

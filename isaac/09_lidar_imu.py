@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 09 - 2D LiDAR (LDS-01) and IMU: /scan and /imu on ROS 2.
 
     source scripts/isaac_env.sh

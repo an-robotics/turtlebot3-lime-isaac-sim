@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Video for tutorial 10: YOLO's /detections/image while the robot turns left and right.
 # Not part of the tutorials - this is how docs/assets/video/tutorial10_yolo.mp4 is made.
 #

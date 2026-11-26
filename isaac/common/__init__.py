@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Small helpers shared by the tutorial scripts.
 
 You can read every tutorial script without opening this package:

@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 00 - Check the setup: Isaac Sim starts, the ROS 2 bridge loads, /clock reaches ROS 2.
 
     source scripts/isaac_env.sh

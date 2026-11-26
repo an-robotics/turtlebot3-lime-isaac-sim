@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Start (or attach to) the ROS 2 Jazzy container used by the tutorials.
 #
 #   ./docker/run_ros.sh                 # interactive shell (first call starts the container)

@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Install Isaac Sim 6.2 (pip) into a repo-local virtual environment: <repo>/.venv
 #
 # Usage:  ./scripts/setup_isaacsim.sh

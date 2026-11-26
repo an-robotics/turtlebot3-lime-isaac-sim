@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 06 - Drive TurtleBot3 Lime from ROS 2 (/cmd_vel) with an Action Graph.
 
     source scripts/isaac_env.sh

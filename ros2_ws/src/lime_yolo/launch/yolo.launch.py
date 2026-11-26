@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 10: YOLO object detection on the Lime's RealSense images.
 
     ros2 launch lime_yolo yolo.launch.py                       # yolo11n, 5 Hz

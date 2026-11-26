@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Run the automatic check of every tutorial, the same way the docs tell you to run them.
 #
 #   tools/run_all_checks.sh                # all checks

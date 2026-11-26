@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """YOLO object detection on a ROS 2 image topic (tutorial 10).
 
 Subscribes:  /camera/camera/color/image_raw   sensor_msgs/Image

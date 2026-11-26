@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """robot_state_publisher for TurtleBot3 Lime simulated in Isaac Sim.
 
 Isaac Sim publishes /joint_states (wheels, arm, gripper) and /clock. robot_state_publisher turns the

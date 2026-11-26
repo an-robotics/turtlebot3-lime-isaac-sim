@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 # Build the ROS 2 workspace (ros2_ws/) inside the ROS 2 Jazzy container.
 #
 #   ./scripts/build_ws.sh                  # build everything

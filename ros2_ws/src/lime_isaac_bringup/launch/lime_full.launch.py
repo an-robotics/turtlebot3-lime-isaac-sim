@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: 2026 An (an-robotics)
+# SPDX-License-Identifier: Apache-2.0
+
 """Tutorial 13: everything at once - MoveIt 2 + ros2_control, Nav2, YOLO and RViz.
 
     ros2 launch lime_isaac_bringup lime_full.launch.py
