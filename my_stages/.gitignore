@@ -1,0 +1,4 @@
+# Your own stages from the tutorials' GUI tabs (File ▸ Save As my_stages/...).
+# Git ignores everything in this folder except this file.
+*
+!.gitignore

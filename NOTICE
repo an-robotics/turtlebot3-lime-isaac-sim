@@ -1,0 +1,40 @@
+TurtleBot3 Lime x Isaac Sim 6.2 Tutorials
+Copyright 2026 An (an-robotics)
+
+This project is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+It includes or is derived from the following third-party work:
+
+1. TurtleBot3 Lime ROS packages
+   https://github.com/ROBOTIS-JAPAN-GIT/turtlebot3_lime (branch humble-devel,
+   commit 3363b27aae6d37598dc142cf4dddb342fef3047f)
+   Copyright ROBOTIS CO., LTD. / ROBOTIS JAPAN - Apache License 2.0
+   Vendored in ros2_ws/src/turtlebot3_lime/ (turtlebot3_lime_description,
+   turtlebot3_lime_moveit_config), including the robot meshes.
+   Modifications (ROS 2 Jazzy + Isaac Sim port) are marked in the modified files.
+
+2. Turtlebot3_Lime_IsaacSim_Humble
+   https://github.com/momoiorg-repository/Turtlebot3_Lime_IsaacSim_Humble
+   Copyright (c) 2025 An - MIT License
+   Used as the reference for topic and controller names (Isaac Sim 4.5 / Humble version).
+   The photo of the real TurtleBot3 Lime (docs/assets/img/real_lime.jpg, and the left half of
+   docs/assets/img/real_vs_sim.jpg) is that repository's docs/imgs/lime1.jpg, resized.
+
+3. Nav2 (nav2_bringup), https://github.com/ros-navigation/navigation2 - Apache License 2.0
+   ros2_ws/src/lime_isaac_bringup/config/nav2_params.yaml is generated from nav2_bringup's
+   params/nav2_params.yaml (Jazzy); rviz/navigation.rviz is a modified copy of its
+   rviz/nav2_default_view.rviz.
+
+4. Intel RealSense D435 mesh (assets/urdf/meshes/d435.dae)
+   From realsense2_description, https://github.com/IntelRealSense/realsense-ros
+   Copyright Intel Corporation - Apache License 2.0
+
+5. slam_toolbox, https://github.com/SteveMacenski/slam_toolbox - GNU LGPL 2.1
+   ros2_ws/src/lime_isaac_bringup/config/slam_params.yaml is generated from its
+   config/mapper_params_online_async.yaml (Jazzy), with the changed lines marked "# Lime:".
+
+Runtime dependencies that are NOT redistributed here:
+  * NVIDIA Isaac Sim 6.2 - NVIDIA Isaac Sim Additional Software and Materials License
+    and NVIDIA Software License Agreement (installed by the user via pip).
+  * Ultralytics YOLO - AGPL-3.0 (installed in the ROS container; weights are
+    downloaded at runtime and never committed to this repository).
